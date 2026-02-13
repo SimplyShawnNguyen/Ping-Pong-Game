@@ -1,0 +1,14 @@
+﻿  Main.cpp
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(17,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(17,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(17,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(40,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(41,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(66,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(66,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(66,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(66,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(131,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(134,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Coding Projects\Ping Pong game\Ping Pong Game\Main.cpp(137,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ping Pong Game.vcxproj -> E:\Coding Projects\Ping Pong game\Ping Pong Game\x64\Debug\Ping Pong Game.exe
